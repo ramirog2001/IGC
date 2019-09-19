@@ -19,7 +19,6 @@ class User extends Component {
     }
     
     _storeData = async (data) => {
-        console.log(data);
         try{
             await AsyncStorage.setItem('Datos', JSON.stringify(data))
             .then(console.log("SavedInStorage"))
