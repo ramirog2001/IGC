@@ -1,6 +1,5 @@
 import React from 'react';
 import { View, Text, ScrollView, RefreshControl } from 'react-native';
-import { Button } from 'react-native';
 
 import User from '../Components/User';
 
