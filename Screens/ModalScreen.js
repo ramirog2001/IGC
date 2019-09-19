@@ -13,7 +13,7 @@ class ModalScreen extends React.Component {
           <Text style={{ fontSize: 30 }}>{Nombre}</Text>
           <Image
                 style={{width: '80%', height: '50%'}}
-                source={{uri: Imagen.large}} />
+                source={{uri: Imagen}} />
           <Button
             onPress={() => this.props.navigation.goBack()}
             title="Volver"

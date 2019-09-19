@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": null,
-  "packagerPid": null,
+  "packagerPort": 19001,
+  "packagerPid": 1536,
   "expoServerNgrokUrl": "https://kd-i5v.ramirogalende.igc.exp.direct",
   "packagerNgrokUrl": "https://packager.kd-i5v.ramirogalende.igc.exp.direct",
-  "ngrokPid": 12428,
+  "ngrokPid": 7784,
   "webpackServerPort": 19006
 }

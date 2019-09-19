@@ -19,7 +19,7 @@ class HomeScreen extends React.Component {
       <View style={{ flex: 1, backgroundColor: 'lightgray' }}>
 
       
-        <User  navigation = {this.props.navigation} refreshHandler = {this.refreshHandler}/>
+        <User  navigation = {this.props.navigation}/>
        
       </View>
     );
