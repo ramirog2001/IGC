@@ -2,9 +2,11 @@ import React, { Component } from 'react';
 
 import { FlatList } from 'react-native-gesture-handler';
 
-import { Text, ScrollView, AsyncStorage, RefreshControl } from 'react-native'
+import { ScrollView, AsyncStorage, RefreshControl } from 'react-native'
 
 import UserItem from './UserItem';
+
+
 
 
 class User extends Component {
@@ -70,6 +72,12 @@ class User extends Component {
     }
 
     
+
+        
+
+      
+
+
     render() {
 
         return (
